@@ -4,4 +4,4 @@ Grapholio is a web tool designed for teaching and learning about graph theory. I
 That's why I developed it - to give students a solid start in understanding graph theory with simplicity and confidence.
 
 
-[https://grapholio.netlify.app/app](https://grapholio.djidax.com/)
+[Go to web app](https://grapholio.djidax.com/)
